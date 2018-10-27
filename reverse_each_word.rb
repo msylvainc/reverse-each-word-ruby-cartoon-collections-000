@@ -1,4 +1,4 @@
-require 'IRB'
+require 'spec_helper'
 
 def reverse_each_word(sentence)
 new_sentence = []
