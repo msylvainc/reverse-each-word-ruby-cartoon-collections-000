@@ -1,6 +1,6 @@
 def reverse_each_word
-var str = "Hello there, and how are you?" ;
-var str = "Hi again, just making sure it's reversed!" ;
+sentence1 = "Hello there, and how are you?" ;
+sentence2 = "Hi again, just making sure it's reversed!" ;
 var res = str.split(" ");
 
 return_reverse_each_word = []
