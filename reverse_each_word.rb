@@ -4,7 +4,7 @@ var str = "Hi again, just making sure it's reversed!" ;
 var res = str.split(" ");
 
 return_reverse_each_word = []
-greeting.each do|reverse_each_word|
+reverse_each_word.each do|reverse_each_word|
     return_reverse_each_word << reverse_each_word.reverse
 
 reverse_each_word("Hello there, and how are you?")
